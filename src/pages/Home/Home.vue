@@ -1,15 +1,13 @@
 <template>
-    <section class="Teste">
-        <div class="container">
-            <div class="col-lg-5">
-                Testando
-            </div>
-        </div>
-    </section>
+    <HeaderVue />
 </template>
 
 <script>
+    import HeaderVue from '../../components/Header/Header.vue';
     export default {
-        name: 'HomePage'
+        name: 'HomePage',
+        components: {
+            HeaderVue
+        }
     }
 </script>
