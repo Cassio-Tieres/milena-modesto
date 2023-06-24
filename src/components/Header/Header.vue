@@ -13,19 +13,19 @@
                         <router-link class="nav-link active" to="/">Início</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/">Sobre</router-link>
+                        <router-link class="nav-link" to="/sobre">Sobre</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/">Abordagem</router-link>
+                        <router-link class="nav-link" to="/abordagem">Abordagem</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/">Público-alvo</router-link>
+                        <router-link class="nav-link" to="/publico-alvo">Público-alvo</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/">Blog</router-link>
+                        <router-link class="nav-link" to="/blog">Blog</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/">Contato</router-link>
+                        <router-link class="nav-link" to="/contato">Contato</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link whatsapp-header" to="/">
