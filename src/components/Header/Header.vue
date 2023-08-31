@@ -45,6 +45,9 @@
 </script>
 
 <style scoped>
+    * {
+        background-color: #ffff;
+    }
     .navbar .navbar-expand-lg {
         position: absolute;
         width: 100%;

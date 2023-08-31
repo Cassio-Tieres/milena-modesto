@@ -16,5 +16,6 @@ export default {
 <style>
   * {
     font-family: 'Poppins', sans-serif;
+    background: #FFF5E5;
   }
 </style>
